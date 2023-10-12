@@ -1,0 +1,62 @@
+.form-signin .checkbox {
+    font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.navbar-brand img {
+    width: 80px;
+}
+
+.carousel-item img {
+    height: auto;
+    width: auto;
+    position: relative;
+}
+.tentang {
+    padding: 3rem 7% 1.4rem;
+}
+
+.tentang h2 {
+    text-align: center;
+    font-size: 2.6rem;
+    margin-bottom: 3rem;
+}
+
+.tentang .row {
+    display: flex;
+}
+
+.tentang .row .tentang-img {
+    flex: 1 1 45rem;
+}
+
+.tentang .row .tentang-img img {
+    width: 80%;
+}
+
+.tentang .row .content {
+    flex: 1 1 35rem;
+    padding: 0 1rem;
+}
+
+.tentang .row .content p {
+    margin-bottom: 0.8rem;
+    font-size: 1.4rem;
+    font-weight: 100;
+    line-height: 1.6;
+}
